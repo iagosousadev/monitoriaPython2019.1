@@ -15,4 +15,4 @@ for i in range(4):
 
 media = (soma - min - max) / 3
 
-prfloat("%.2f" % media)
+print("%.2f" % media)
